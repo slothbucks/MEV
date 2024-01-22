@@ -1,6 +1,6 @@
-# MEV template for Rustaceans
+# MEV BOT
 
-Running the Rust template can be done by running below:
+Running the MEV Bot can be done by running below:
 
 ```bash
 cargo run
